@@ -1,6 +1,6 @@
 {
   "name": "@k0603156/fanding-ui",
-  "version": "0.1.6",
+  "version": "0.1.0",
   "private": false,
   "module": "src/components/index.js",
   "files": [
